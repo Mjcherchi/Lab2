@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../CapstoneMQTT"
+		},
+		{
+			"path": "../../CapstoneLights"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"extensions.ignoreRecommendations": true,
+		"files.associations": {
+			"*.ino": "cpp"
+		}
+	}
+}
